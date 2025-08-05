@@ -1,0 +1,1 @@
+run.sh => For running each lkm program with clean running with all the test cases,  go to the respective folder and run the run.sh script 
